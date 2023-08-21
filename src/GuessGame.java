@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class GuessGame {
+public class GuessGame {
+
+    String player1;
+    String player2;
+    String player3;
+    public void startGame() {
+    }
 }
